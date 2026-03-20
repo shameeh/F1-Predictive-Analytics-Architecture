@@ -45,6 +45,8 @@ The business logic layer. Using advanced PySpark `Window` functions, the code en
 
 ## 🧠 Machine Learning Engine (The Saturday Night Predictor)
 
+<img width="602" height="311" alt="Prediction Output" src="https://github.com/user-attachments/assets/682a0b62-01d4-494b-974f-ea1a8fd41033" />
+
 Instead of attempting to predict highly volatile exact lap times, the AI is modeled as a **Classification Engine**.
 
 * **The Target Variable:** `Is_Podium_Contender` (Predicting if a driver possesses both top-5 track position and top-5 race pace).
@@ -54,6 +56,9 @@ Instead of attempting to predict highly volatile exact lap times, the AI is mode
 ---
 
 ## 🔄 Automation & Orchestration (Fabric Data Factory)
+
+<img width="1242" height="197" alt="Fabric DAG" src="https://github.com/user-attachments/assets/0881c736-8541-4e74-99ac-ce85526213fb" />
+<img width="563" height="549" alt="F1 Data Analysis Workspace" src="https://github.com/user-attachments/assets/9f05b615-1724-4eed-8008-d6f523ba7795" />
 
 The entire architecture is fully autonomous. 
 * **DAG Implementation:** Notebooks are chained dependently. Silver only runs if Bronze succeeds; ML only runs if Gold succeeds.
