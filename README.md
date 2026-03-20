@@ -81,3 +81,7 @@ To replicate this environment in your own Microsoft Fabric or Databricks workspa
 6. (Optional) Append an Office 365 or Webhook activity to the end of the pipeline to capture the `mssparkutils` exit value for notifications.
 
 ---
+
+Further Updates:
+1. Building a separate automated system for sprint race weeks.
+2. Bring visualisations for different analyses.
