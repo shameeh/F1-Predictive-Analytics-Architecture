@@ -83,5 +83,4 @@ To replicate this environment in your own Microsoft Fabric or Databricks workspa
 ---
 
 Further Updates:
-1. Building a separate automated system for sprint race weeks.
-2. Bring visualisations for different analyses.
+1. Bring visualisations for different analyses.
