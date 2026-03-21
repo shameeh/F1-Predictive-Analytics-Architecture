@@ -11,6 +11,8 @@ This project ingests live Formula 1 telemetry, processes it through a highly sca
 
 ## 🏗️ Enterprise Architecture Overview
 
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/fdf63f55-6a5f-4297-88ef-1768855ec254" />
+
 <img width="847" height="307" alt="architecture" src="https://github.com/user-attachments/assets/9a4220f8-5f9e-45ed-8952-3b3e6cd6ef94" />
 
 ### The Tech Stack
